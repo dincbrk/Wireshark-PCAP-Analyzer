@@ -52,9 +52,6 @@ The output is a detailed PDF report containing:
 - A time-based traffic analysis graph.
 - A summary of overall risks and suggested actions.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contributing
 
