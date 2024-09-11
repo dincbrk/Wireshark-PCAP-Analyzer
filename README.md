@@ -65,4 +65,4 @@ This script uses the following Python libraries:
 - [Matplotlib](https://matplotlib.org/) for creating graphs.
 
 ## Author
-[Burak Dinç](https://github.com/dincbrk)
+[Burak Dinç](https://burakdinc.com.tr)
